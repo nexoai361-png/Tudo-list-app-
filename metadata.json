@@ -1,0 +1,6 @@
+{
+  "name": "TaskMaster Pro",
+  "description": "A professional Task Management and Calculator suite with a premium glassmorphism interface and full local persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
